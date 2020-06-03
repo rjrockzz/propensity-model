@@ -1,2 +1,2 @@
-# propensity-model
+# Propensity Model
 Predicting Prospect Base
