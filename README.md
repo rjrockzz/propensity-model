@@ -18,3 +18,10 @@
 <br>
 
 _more updates to follow._
+  <br>
+  * Project Migrated to Azure.<br>
+<p align="center">
+  <kbd>
+  <img src="https://github.com/rjrockzz/propensity-model/blob/master/static/assets/img/Picture1.png">
+  </kbd>  
+</p><br>
